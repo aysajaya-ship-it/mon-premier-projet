@@ -1,2 +1,5 @@
 # mon-premier-projet
-pour apprendre git et github
+Bonsoir !
+je suis étudiante en informatique.
+## objectif
+publier et organiser mes projets.
